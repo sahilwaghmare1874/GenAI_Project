@@ -1,0 +1,7 @@
+g{
+    "name": "aiverse",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
