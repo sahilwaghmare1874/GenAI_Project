@@ -1,1 +1,1 @@
-# ai_verse
+# GenAI_Project
